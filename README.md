@@ -1,7 +1,9 @@
 # Chess
+Two player chess GUI application written in Java using JavaFX.  
 
-Chess GUI application written in Java using JavaFX.  
-Ran with openjdk-16.0.2, javafx-sdk-11.0.2
+
+# Setup
+Ran with openjdk-16.0.2, javafx-sdk-11.0.2  
 
 Modules used:  
 javafx-base-16.jar  
