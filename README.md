@@ -1,8 +1,7 @@
 # Chess
 Two player chess GUI application written in Java using JavaFX.  
 
-<img width="862" alt="Screenshot 2023-07-17 at 8 51 43 PM" src="https://github.com/anthony-s-flath/Chess/assets/123764940/d9435933-95f4-432b-ae4a-cb0cc249f115">
-
+<img width="862" alt="Screenshot 2023-07-17 at 8 51 52 PM" src="https://github.com/anthony-s-flath/Chess/assets/123764940/7ce673d3-8820-40c2-ae9b-8d7282204e8b">
 
 # Setup
 Ran with openjdk-16.0.2, javafx-sdk-11.0.2  
